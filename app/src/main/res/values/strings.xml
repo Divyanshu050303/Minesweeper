@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="menisweeper">Menisweeper</string>
+    <string name="besttime_0">BestTime : 0</string>
+    <string name="last_game_time_0s">Last Game time 0s</string>
+    <string name="easy">easy</string>
+    <string name="medium" />
+    <string name="hard" />
+    <string name="med">Medium</string>
+    <string name="h1">Hard</string>
+    <string name="or">or</string>
+    <string name="make_a_custom_board">Make a Custom Board</string>
+    <string name="start">Start</string>
+    <string name="select_difficulty">select difficulty</string>
+    <string name="menis">Menis</string>
+    <string name="_13">13</string>
+    <string name="restart">Restart</string>
+    <string name="time">Time</string>
+    <string name="_10">10</string>
+</resources>
